@@ -1,2 +1,2 @@
-# Internship_Website
-This is the internship providing website called skillx
+# Internship
+This page is for the internship website code. Please ensure that you update your code accordingly.
